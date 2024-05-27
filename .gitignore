@@ -1,0 +1,18 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*.targets
+*.props
+*.cache
+*.editorconfig
+*.vsidx
+*.v2
+*.bin
+/ClassLibrary/ObserverPattern/obj
+/.vs/HeadFirstWPFApp/v17
+/ClassLibrary/StrategyPattern1/obj
+/ClassLibrary/StrategyPattern1/bin/Debug/net8.0
+/ClassLibrary/StrategyPattern2/obj
+/ClassLibrary/StrategyPattern3/obj
+/StartUpApp/obj
