@@ -1,4 +1,4 @@
-﻿using StrategyPattern1;
+﻿using StrategyPattern2;
 
 var mallardDuck = new MallardDuck();
 mallardDuck.Display();
@@ -16,15 +16,12 @@ Console.WriteLine();
 
 var rubberDuck = new RubberDuck();
 rubberDuck.Display();
-rubberDuck.Fly();
 rubberDuck.Quack();
 rubberDuck.Swim();
 Console.WriteLine();
 
 var decoyDuck = new DecoyDuck();
 decoyDuck.Display();
-decoyDuck.Fly();
-decoyDuck.Quack();
 decoyDuck.Swim();
 Console.WriteLine();
 
