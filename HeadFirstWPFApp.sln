@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern2", "ClassLi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern3", "ClassLibrary\StrategyPattern3\StrategyPattern3.csproj", "{B98DBCD3-9B7F-4F6C-82D2-74D8A2C418D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ClassLibrary\ObserverPattern\ObserverPattern.csproj", "{C3168BA1-4CBF-421B-89E3-D45FE917844A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern1", "ClassLibrary\ObserverPattern\ObserverPattern1.csproj", "{C3168BA1-4CBF-421B-89E3-D45FE917844A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartUpApp", "StartUpApp\StartUpApp.csproj", "{3D728C27-BB25-4AE7-B5A6-B708984A90BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartUpApp", "StartUpApp\StartUpApp.csproj", "{3D728C27-BB25-4AE7-B5A6-B708984A90BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
