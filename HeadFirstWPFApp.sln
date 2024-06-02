@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern1", "ClassLi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartUpApp", "StartUpApp\StartUpApp.csproj", "{3D728C27-BB25-4AE7-B5A6-B708984A90BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern2", "ClassLibrary\ObserverPattern2\ObserverPattern2.csproj", "{C478D04F-F75B-4ED3-9D1D-3F36DC13EC77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern2", "ClassLibrary\ObserverPattern2\ObserverPattern2.csproj", "{C478D04F-F75B-4ED3-9D1D-3F36DC13EC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern1", "ClassLibrary\DecoratorPattern1\DecoratorPattern1.csproj", "{30849E71-AE72-4882-8179-B42D8F2F123A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{C478D04F-F75B-4ED3-9D1D-3F36DC13EC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C478D04F-F75B-4ED3-9D1D-3F36DC13EC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C478D04F-F75B-4ED3-9D1D-3F36DC13EC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30849E71-AE72-4882-8179-B42D8F2F123A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30849E71-AE72-4882-8179-B42D8F2F123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30849E71-AE72-4882-8179-B42D8F2F123A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30849E71-AE72-4882-8179-B42D8F2F123A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{C3168BA1-4CBF-421B-89E3-D45FE917844A} = {57E8FD50-99AD-4BFD-AE39-A2E9F5CF2968}
 		{3D728C27-BB25-4AE7-B5A6-B708984A90BF} = {DC78ECFD-A731-4712-ADEC-E1C00C227B7A}
 		{C478D04F-F75B-4ED3-9D1D-3F36DC13EC77} = {57E8FD50-99AD-4BFD-AE39-A2E9F5CF2968}
+		{30849E71-AE72-4882-8179-B42D8F2F123A} = {57E8FD50-99AD-4BFD-AE39-A2E9F5CF2968}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A8F2F75-F557-4623-87C7-ED8633046295}

@@ -24,3 +24,10 @@
 /ClassLibrary/ObserverPattern1/obj
 /ClassLibrary/ObserverPattern2/bin/Debug/net8.0
 /ClassLibrary/ObserverPattern2/obj
+*.json
+*.dll
+*.exe
+*.pdb
+*.BuildWithSkipAnalyzers
+*.txt
+/ClassLibrary/DecoratorPattern1/obj/Debug/net8.0
