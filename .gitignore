@@ -32,3 +32,4 @@
 *.txt
 /ClassLibrary/DecoratorPattern1/obj/Debug/net8.0
 /ClassLibrary/DecoratorPattern2/obj/Debug/net8.0
+/ClassLibrary/SimpleFactoryPattern/obj/Debug/net8.0
